@@ -1,2 +1,2 @@
 # projekt-pgr
-TBA
+Hra hledání min v pythonu - seminář programování GJKT
