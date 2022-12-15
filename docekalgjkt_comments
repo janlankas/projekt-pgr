@@ -1,0 +1,3 @@
+README.md - doufám, že tento soubor dozná ještě určitých změn, podrobnější popis projektu, dependencies, version, authors atd.
+main.py by mohl být hlavním inicializačním souborem, doporučuji ke kždé třídě (nebo sadě tříd a funkcí) vytvořit modul (vlastní soubor) a importovat tam, kde je potřeba.
+v tomto souboru bych vytvořil (rozuměj objekt) hlavní okno a spustil mainloop aplikace.
